@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetIpTools", "NetIpTools\NetIpTools.csproj", "{CA4E1191-48F5-4683-AFDC-0567233DB1D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetIpToolsTest", "NetIpToolsTest\NetIpToolsTest.csproj", "{5DF8DD34-DAD6-427C-8E73-3D4B47FBEAE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA4E1191-48F5-4683-AFDC-0567233DB1D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4E1191-48F5-4683-AFDC-0567233DB1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4E1191-48F5-4683-AFDC-0567233DB1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4E1191-48F5-4683-AFDC-0567233DB1D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF8DD34-DAD6-427C-8E73-3D4B47FBEAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF8DD34-DAD6-427C-8E73-3D4B47FBEAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF8DD34-DAD6-427C-8E73-3D4B47FBEAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF8DD34-DAD6-427C-8E73-3D4B47FBEAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C59700-8FA9-4C7B-AA51-595B5438A1B6}
+	EndGlobalSection
+EndGlobal
